@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1455011666 source:e:\programming\test\lib1.cpp
+	"lib1.h"
+
+1455011829 e:\programming\test\lib1.h
+	<cstdio>
+	"lib.h"
+
+1455011704 e:\programming\test\lib.h
+
+1455011782 source:e:\programming\test\lib2.cpp
+	"lib2.h"
+
+1455011758 e:\programming\test\lib2.h
+	"lib1.h"
+
+1455011829 source:e:\programming\test\test.cpp
+	<cstdio>
+	"lib2.h"
+

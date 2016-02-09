@@ -31,9 +31,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="lib.h" />
+		<Unit filename="lib1.cpp" />
+		<Unit filename="lib1.h" />
+		<Unit filename="lib2.cpp" />
+		<Unit filename="lib2.h" />
 		<Unit filename="test.cpp" />
-		<Unit filename="test.in" />
-		<Unit filename="test.out" />
 		<Extensions>
 			<code_completion />
 			<envvars />
